@@ -52,3 +52,8 @@ For more run:
 ```
 thingsim [command] --help
 ```
+
+# Support
+
+This is not an official smartthings product and is not supported by SmartThings
+or Samsung support. It is intended as a demonstration and development tool only.
