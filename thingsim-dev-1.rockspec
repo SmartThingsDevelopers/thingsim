@@ -2,7 +2,7 @@ package = "thingsim"
 version = "dev-1"
 source = {
   url = "git://github.com/SmartThingsCommunity/thingsim.git",
-  branch = "master"
+  branch = "main"
 }
 description = {
   summary = "A smarthome network device simulator",
