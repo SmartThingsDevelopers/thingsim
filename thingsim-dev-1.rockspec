@@ -10,7 +10,7 @@ description = {
   license = "Apache-2.0"
 }
 dependencies = {
-  "lua >= 5.1 < 6",
+  "lua >= 5.1",
   "luasocket >= 3.0-rc1",
   "cosock",
   "logface",
