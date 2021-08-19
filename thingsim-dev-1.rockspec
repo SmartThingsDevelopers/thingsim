@@ -1,7 +1,7 @@
 package = "thingsim"
 version = "dev-1"
 source = {
-  url = "git://github.com/SmartThingsCommunity/thingsim.git",
+  url = "git://github.com/SmartThingsDevelopers/thingsim.git",
   branch = "main"
 }
 description = {
